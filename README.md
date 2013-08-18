@@ -5,5 +5,5 @@ A port of [Jeroen's mark/jump functions](http://jeroenjanssens.com/2013/08/16/qu
 Installation
 ------------
 1. Move all the `.fish` files into fish's config functions directory (i.e. `~/.config/fish/functions/`).
-2. Set the environment variable `MARKPATH` in `~/.config/fish/config.fish` (e.g. `set -x MARKPATH $HOME/.marks).
+2. Set the environment variable `MARKPATH` in `~/.config/fish/config.fish` (e.g. `set -x MARKPATH $HOME/.marks`).
 3. (optional) Tell fish to re-read its initialization file (e.g. `. ~/.config/fish/config.fish`).

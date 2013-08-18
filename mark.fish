@@ -1,3 +1,3 @@
-function mark { 
-  mkdir -p $MARKPATH; and ln -s $(pwd) $MARKPATH/$argv[1]
-}
+function mark
+  mkdir -p $MARKPATH; and ln -s (pwd) $MARKPATH/$argv[1]
+end

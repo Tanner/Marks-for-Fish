@@ -7,5 +7,3 @@ Installation
 1. Move all the `.fish` files into fish's config functions directory (i.e. `~/.config/fish/functions/`).
 2. Set the environment variable `MARKPATH` in `~/.config/fish/config.fish` (e.g. `set -x MARKPATH $HOME/.marks`).
 3. (optional) Tell fish to re-read its initialization file (e.g. `. ~/.config/fish/config.fish`).
-
-**Note:** If you don't want to move/copy the `.fish` files you can make a symbolic link from the repository's clone using `ln -s *.fish ~/.config/fish/functions/`.

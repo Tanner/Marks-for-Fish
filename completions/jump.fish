@@ -1,0 +1,1 @@
+complete -x -c jump -a '(ls $MARKPATH)'

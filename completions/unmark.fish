@@ -1,0 +1,1 @@
+complete -x -c unmark -a '(ls $MARKPATH)'

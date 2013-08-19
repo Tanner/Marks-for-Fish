@@ -8,3 +8,5 @@ Installation
 2. Move all the `.fish` files in `completions` into fish's config completions directory (i.e. `~/.config/fish/completions/`).
 3. Set the environment variable `MARKPATH` in `~/.config/fish/config.fish` (e.g. `set -x MARKPATH $HOME/.marks`).
 4. (optional) Tell fish to re-read its initialization file (e.g. `. ~/.config/fish/config.fish`).
+
+(or simple run `install.sh` to perform all of the above)
